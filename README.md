@@ -1,4 +1,4 @@
-# My First Excel Project: What I Built, What I Learned, and What Still Has Me Scratching My Head
+# An Excel Project: What I Built, What I Learned, and What Still Has Me Scratching My Head
 
 Just finished a guided Excel project by Luke Barousse and honestly? It really stretched me in ways I didn't expect. If you're into data and haven't checked him out, you're missing out.
 
