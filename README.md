@@ -3,6 +3,7 @@
 Just finished a guided Excel project by Luke Barousse and honestly? It really stretched me in ways I didn't expect. If you're into data and haven't checked him out, you're missing out.
 
 The project was a **Salary Dashboard** — basically an interactive tool that helps job seekers figure out what salaries look like across different data-related jobs, countries, and work types.
+<img width="1366" height="715" alt="Screenshot (1276)" src="https://github.com/user-attachments/assets/7f18342a-267f-4944-9d68-f7db31e8efe4" />
 
 ---
 
@@ -21,7 +22,7 @@ I filtered for a **Data Analyst** role in the **United States** on a **Full-time
 - 📋 Job Count: **6,480**
 
 The dashboard shows exactly which data jobs pay the most and which ones don't — one look at the chart and it's immediately clear.
-<img width="1366" height="715" alt="Screenshot (1276)" src="https://github.com/user-attachments/assets/25998f85-7f26-4ee1-b02a-6d935ed17274" />
+
 
 ---
 
